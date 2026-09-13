@@ -1,0 +1,11 @@
+flask>=3.0
+flask-sock>=0.7
+groq>=0.9
+google-genai>=1.0
+ollama>=0.4
+numpy>=1.26
+python-dotenv>=1.0
+twilio>=9.0
+
+# Optional: local neural TTS (no API key needed). Install only if TTS_BACKEND=piper.
+# piper-tts>=1.2

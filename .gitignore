@@ -1,0 +1,16 @@
+# secrets — never commit
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# runtime data
+metrics.csv
+metrics_test.csv
+
+# runtime logs
+*.log
+
+# local tools
+ngrok.exe
